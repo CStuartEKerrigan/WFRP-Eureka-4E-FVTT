@@ -31,7 +31,7 @@
 	{
       "name": "EurekaJournal",
       "label": "Eureka! Journals",
-      "path": "packs/eureka-journal.db",
+      "path": "packs/eureka-journals.db",
       "entity": "JournalEntry",
       "module": "wfrp4e-eureka",
       "system": "wfrp4e"
