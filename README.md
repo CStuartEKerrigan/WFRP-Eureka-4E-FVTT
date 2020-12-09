@@ -9,7 +9,7 @@ It was later converted to 2nd Edition and made available on the Black Industries
 This module provides unofficial content to allow GMs to run Eureka! using [Foundry Virtual Tabletop's](https://foundryvtt.com/) [Warhammer Fantasy Roleplay Foundry Core Module](https://www.cubicle7games.com/product-category/foundry/). You'll need a free PDF of Eureka! to run this module successfully, but all maps and actors are supplied in this module.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/kugel.png">
+  <img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/kugel.png?token=AE53ZKRTHPIW7D3JB5QQK6C72ANC4">
 </p>
 <p align="center">
 <em>For zience!!!</em>
@@ -32,10 +32,10 @@ This module provides unofficial content to allow GMs to run Eureka! using [Found
 This module is freeware, and always will be, and other free unofficial WFRP modules are planned. As the WFRP content now requires payment to Cubicle 7 there are some running costs so if you want to donate then the link below is provided.
 			
 <p align="center">
-<a href="https://paypal.me/perilousrealm?locale.x=en_GB"><img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/paypal.png" style="display: block;  margin-left: auto; margin-right: auto;" alt="paypal" /></a></p>
+<a href="https://paypal.me/perilousrealm?locale.x=en_GB"><img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/paypal.png?token=AE53ZKS3AXNKZLWLRH2N34S72ANFC" style="display: block;  margin-left: auto; margin-right: auto;" alt="paypal" /></a></p>
 
 You can also listen to the <a href="https://anchor.fm/peril">Perilous Realm Podcast</a><br/><br/>
 <p align="center">
-<a href="https://anchor.fm/peril"><img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/peril.png" style="display: block;  margin-left: auto;  margin-right: auto;" alt="peril logo"></a></p>
+<a href="https://anchor.fm/peril"><img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/peril.png?token=AE53ZKWVX6HS7EBLBPVFFDC72ANGY" style="display: block;  margin-left: auto;  margin-right: auto;" alt="peril logo"></a></p>
 
-Lastly do share with us at <a href="mailto:perilousrealmpodcast@gmail.com">perilousrealmpodcast@gmail.com</a> any streams or audio you have of your adventures with Professor Kugelschrieber - that is if they do not scrape you off the pavement.
+Lastly do share with us at <a href="mailto:perilousrealmpodcast@gmail.com">perilousrealmpodcast@gmail.com</a> any streams or audio you have of your adventures with Professor Kugelschrieber - that is if they do not scrape your PCs off the pavement.
