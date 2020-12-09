@@ -35,11 +35,11 @@ class WFRP4eEurekaInitialization extends Dialog{
     {
         super({
             title: "WFRP4e Eureka! Initialization",
-            content: `<p class="notes"><img src="modules/wfrp4e-eureka/assets/icons/logo.png" 
+            content: `<p class="notes"><img src="modules/wfrp4e-eureka/assets/icons/logo2.png" 
 			style="display: block;  margin-left: auto;  margin-right: auto;">
 			
-			
-			</p><p class="notes">The PDF of Eureka! is free and is <strong>needed to use this Foundry module.</strong><br/><br/>				
+			<h4>The Inventive Adventure for Warhammer Fantasy Roleplay</h4>
+			<p class="notes">The PDF of Eureka! is free and is <strong>needed to use this Foundry module.</strong><br/><br/>				
 			
 			Pressing Initialize will install Journals, Actors and Scenes into your world and place map pins on the maps.<br/><br/>
 			
