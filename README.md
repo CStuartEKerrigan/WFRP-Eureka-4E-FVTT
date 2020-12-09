@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/assets/images/icons/logo.png" alt="EUREKA!">
+  <img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/assets/images/icons/logo.png?token=AE53ZKVDRE4KFGV4E3TOEAC72ANN4" alt="EUREKA!">
 </p>
 
 Eureka! is the Inventive Scenario for Warhammer Fantasy Roleplay and can serve as an introduction to the game. The scenario was published in 1987 and was written by Paul Hargraves. It appeared within the pages of White Dwarf 93 and later was reprinted in the Restless Dead campaign where it was accompanied by a page of campaign notes by Carl Sargent that gave advice on how to place it during the Restless Dead campaign or the Enemy Within campaign.
