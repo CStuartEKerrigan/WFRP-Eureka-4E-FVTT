@@ -1,26 +1,42 @@
 {
-  "name": "wfrp4e-exporter",
-  "title": "WFRP4e-Statblock Exporter",
-  "description": "Export statblocks into a document-friendly format for publications.",
+  "name": "wfrp4e-eureka",
+  "title": "Eureka! (WFRP 4E)",
+  "description": "An Inventive Adventure for Warhammer Fantasy Roleplay 4th Edition",
   "version": "1.0",
-  "author": "Stu",
+  "author": "Stuart",
   "systems": ["wfrp4e"],
   "styles": [
     "./styles.css"
   ],
   "packs": [
 	{
-      "name": "WFRP4E-Exporter",
-      "label": "WFRP4E Exporter",
-      "path": "macro.db",
-      "entity": "Macro",
-      "module": "wfrp4e-exporter",
+      "name": "EurekaActors",
+      "label": "Eureka! Actors",
+      "path": "packs/eureka-actors.db",
+      "entity": "Actor",
+      "module": "wfrp4e-eureka",
+      "system": "wfrp4e"
+    },
+	{
+      "name": "EurekaScenes",
+      "label": "Eureka! Scenes",
+      "path": "packs/eureka-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-eureka",
+      "system": "wfrp4e"
+    },
+	{
+      "name": "EurekaJournal",
+      "label": "Eureka! Journals",
+      "path": "packs/eureka-journal.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-eureka",
       "system": "wfrp4e"
     }	
   ],
   "languages": ["en"],
   "minimumCoreVersion": "0.7.7",
-  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/Exporter/master/module.json",
-  "download": "https://github.com/CStuartEKerrigan/Exporter/archive/master.zip",
-  "url": "https://github.com/CStuartEKerrigan/Exporter/"
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/module.json",
+  "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip",
+  "url": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/"
 } 
