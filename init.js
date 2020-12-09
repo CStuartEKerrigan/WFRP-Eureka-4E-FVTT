@@ -35,7 +35,7 @@ class WFRP4eEurekaInitialization extends Dialog{
     {
         super({
             title: "WFRP4e Eureka! Initialization",
-            content: `<p class="notes"><img src="modules/wfrp4e-eureka/assets/icons/logo2.png" 
+            content: `<p class="notes"><img src="modules/wfrp4e-eureka/assets/images/icons/logo2.png" 
 			style="display: block;  margin-left: auto;  margin-right: auto;">
 			
 			<h4>The Inventive Adventure for Warhammer Fantasy Roleplay</h4>
@@ -121,9 +121,9 @@ class WFRP4eEurekaInitialization extends Dialog{
 
     async initializeEntities() {
 
-        let packList= [ `${this.moduleKey}.NightOfBloodActors`,
-                    `${this.moduleKey}.NightOfBloodScenes`,
-                    `${this.moduleKey}.NightOfBloodJournal`]
+        let packList= [ `${this.moduleKey}.EurekaActors`,
+                    `${this.moduleKey}.EurekaScenes`,
+                    `${this.moduleKey}.EurekaJournal`]
 
         for( let pack of packList)
         {
@@ -159,7 +159,7 @@ class WFRP4eEurekaInitialization extends Dialog{
 
     async initializeScenes() {
         ui.notifications.notify("Initializing Scenes")
-        let m = game.packs.get(`${this.moduleKey}.NightOfBloodScenes`)
+        let m = game.packs.get(`${this.moduleKey}.EurekaScenes`)
         let maps = await m.getContent()
         for (let map of maps)
         {
