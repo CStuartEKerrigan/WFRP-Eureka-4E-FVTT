@@ -29,7 +29,7 @@ This module provides unofficial content to allow GMs to run Eureka! using [Found
 
 # Want to support us?
 			
-This module is freeware, and always will be, and other free unofficial WFRP modules are planned. As the WFRP content now requires payment to Cubicle 7 there are some running costs so if you want to donate then the link below is provided.
+This module is freeware, and always will be, and other free unofficial WFRP modules are planned. As the WFRP content now requires payment to Cubicle 7 there are some running costs so if you want to donate then the link below is provided. (For instance I haven't any modules later than EiS so I wasn't able to add vehicles to this module).
 			
 <p align="center">
 <a href="https://paypal.me/perilousrealm?locale.x=en_GB"><img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/paypal.png" style="display: block;  margin-left: auto; margin-right: auto;" alt="paypal" /></a></p>
