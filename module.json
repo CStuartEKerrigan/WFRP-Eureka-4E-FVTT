@@ -38,10 +38,8 @@
     }	
   ],
   "languages": ["en"],
-  "socket": true,
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
-  "protected" : true,
   "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/module.json",
   "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip",
   "url": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/"
