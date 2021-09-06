@@ -2,9 +2,9 @@
   "name": "wfrp4e-eureka",
   "title": "Eureka! (WFRP 4E)",
   "description": "An Inventive Adventure for Warhammer Fantasy Roleplay 4th Edition",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Stuart",
-  "systems": ["wfrp4e"],
+  "system": ["wfrp4e"],
   "styles": [
     "./styles.css"
   ],
@@ -38,7 +38,7 @@
     }	
   ],
   "languages": ["en"],
-  "minimumCoreVersion": "0.7.7",
+  "minimumCoreVersion": "0.8.9",
   "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/module.json",
   "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip",
   "url": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/"
