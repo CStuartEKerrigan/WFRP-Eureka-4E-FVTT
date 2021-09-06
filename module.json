@@ -3,5 +3,6 @@
   "title": "Eureka! (WFRP 4E)",
   "description": "An Inventive Adventure for Warhammer Fantasy Roleplay 4th Edition",
   "version": "1.0",
-  "minimumCoreVersion": "0.8.9"
+  "minimumCoreVersion": "0.8.9",
+  "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip"
 }
