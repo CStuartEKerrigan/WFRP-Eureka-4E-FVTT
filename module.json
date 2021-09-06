@@ -2,44 +2,6 @@
   "name": "wfrp4e-eureka",
   "title": "Eureka! (WFRP 4E)",
   "description": "An Inventive Adventure for Warhammer Fantasy Roleplay 4th Edition",
-  "version": "1.1",
-  "author": "Stuart",
-  "system": ["wfrp4e"],
-  "styles": [
-    "./styles.css"
-  ],
-  "scripts": [
-    "init.js"
-  ],
-  "packs": [
-	{
-      "name": "EurekaActors",
-      "label": "Eureka! Actors",
-      "path": "packs/eureka-actors.db",
-      "entity": "Actor",
-      "module": "wfrp4e-eureka",
-      "system": "wfrp4e"
-    },
-	{
-      "name": "EurekaScenes",
-      "label": "Eureka! Scenes",
-      "path": "packs/eureka-scenes.db",
-      "entity": "Scene",
-      "module": "wfrp4e-eureka",
-      "system": "wfrp4e"
-    },
-	{
-      "name": "EurekaJournal",
-      "label": "Eureka! Journals",
-      "path": "packs/eureka-journals.db",
-      "entity": "JournalEntry",
-      "module": "wfrp4e-eureka",
-      "system": "wfrp4e"
-    }	
-  ],
-  "languages": ["en"],
-  "minimumCoreVersion": "0.8.9",
-  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/master/module.json",
-  "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip",
-  "url": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/"
-} 
+  "version": "1.0",
+  "minimumCoreVersion": "0.8.9"
+}
