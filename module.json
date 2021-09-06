@@ -4,5 +4,34 @@
   "description": "An Inventive Adventure for Warhammer Fantasy Roleplay 4th Edition",
   "version": "1.0",
   "minimumCoreVersion": "0.8.9",
-  "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip"
+  "download": "https://github.com/CStuartEKerrigan/WFRP-Eureka-4E-FVTT/archive/master.zip",
+  "packs": [
+	{
+      "name": "EurekaActors",
+      "label": "Eureka! Actors",
+      "path": "packs/eureka-actors.db",
+      "entity": "Actor",
+      "module": "wfrp4e-eureka",
+      "system": "wfrp4e"
+    },
+	{
+      "name": "EurekaScenes",
+      "label": "Eureka! Scenes",
+      "path": "packs/eureka-scenes.db",
+      "entity": "Scene",
+      "module": "wfrp4e-eureka",
+      "system": "wfrp4e"
+    },
+	{
+      "name": "EurekaJournal",
+      "label": "Eureka! Journals",
+      "path": "packs/eureka-journals.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-eureka",
+      "system": "wfrp4e"
+    }	
+  ]
+  
+  
+  
 }
